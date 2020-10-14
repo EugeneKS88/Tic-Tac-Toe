@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Problems/Printing strings in the same order/out/
+/Problems/Printing strings in the same order/out/production/classes/
+/Tic-Tac-Toe/task/build/
