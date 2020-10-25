@@ -10,5 +10,33 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2192
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 10. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    13
+    2
+    5
+    5
+    5
+    5
+    3
+    2
+    4
+    3
+    3
+    3
+    2
+    3
+
+    Correct output:
+    3 5 1 4
+
+    Your code output:
+    Hello, Eugene!
+  time: Sat, 24 Oct 2020 23:03:13 UTC
 record: -1
