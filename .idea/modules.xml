@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitHub.Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/GitHub.Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/GitHub.Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/GitHub.Tic-Tac-Toe.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/GitHub.Tic-Tac-Toe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/GitHub.Tic-Tac-Toe.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/GitHub.Tic-Tac-Toe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/GitHub.Tic-Tac-Toe.util.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments/Tic-Tac-Toe.Problems-Assignments.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments/Tic-Tac-Toe.Problems-Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Assignments/Tic-Tac-Toe.Problems-Assignments.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Assignments/Tic-Tac-Toe.Problems-Assignments.main.iml" />
@@ -219,6 +223,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/task.Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/task.Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/task.Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/task.Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/task.Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/task.Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
     </modules>
   </component>
 </project>
